@@ -1,0 +1,11 @@
+C:\Users\charl\OneDrive\Desktop\Intelligent Systems\PerceptronApp\obj\Debug\PerceptronApp.csproj.AssemblyReference.cache
+C:\Users\charl\OneDrive\Desktop\Intelligent Systems\PerceptronApp\obj\Debug\PerceptronApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\charl\OneDrive\Desktop\Intelligent Systems\PerceptronApp\obj\Debug\PerceptronApp.Form1.resources
+C:\Users\charl\OneDrive\Desktop\Intelligent Systems\PerceptronApp\obj\Debug\PerceptronApp.Properties.Resources.resources
+C:\Users\charl\OneDrive\Desktop\Intelligent Systems\PerceptronApp\obj\Debug\PerceptronApp.csproj.GenerateResource.cache
+C:\Users\charl\OneDrive\Desktop\Intelligent Systems\PerceptronApp\obj\Debug\PerceptronApp.csproj.CoreCompileInputs.cache
+C:\Users\charl\OneDrive\Desktop\Intelligent Systems\PerceptronApp\bin\Debug\PerceptronApp.exe.config
+C:\Users\charl\OneDrive\Desktop\Intelligent Systems\PerceptronApp\bin\Debug\PerceptronApp.exe
+C:\Users\charl\OneDrive\Desktop\Intelligent Systems\PerceptronApp\bin\Debug\PerceptronApp.pdb
+C:\Users\charl\OneDrive\Desktop\Intelligent Systems\PerceptronApp\obj\Debug\PerceptronApp.exe
+C:\Users\charl\OneDrive\Desktop\Intelligent Systems\PerceptronApp\obj\Debug\PerceptronApp.pdb
